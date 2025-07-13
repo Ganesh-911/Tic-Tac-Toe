@@ -20,6 +20,16 @@ This is a **fully functional Tic-Tac-Toe game** built using **HTML, CSS, and Jav
 - Audio integration with JS
 - Clean UI with CSS Flexbox and Grid
 
+  ## 🌐 Live Demo
+
+[🔗 View on GitHub Pages]( https://ganesh-911.github.io/Tic-Tac-Toe/)
+
+---
+## 👤 Author
+
+**Ganesh Sai Durga**  
+GitHub: [@Ganesh-911](https://github.com/Ganesh-911)
+
 ## 🚀 Getting Started
 
 1. Clone the repository or download the files.
